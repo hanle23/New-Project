@@ -1,4 +1,4 @@
-package com.example.notecollab
+package com.example.placeholder
 
 import org.junit.Test
 

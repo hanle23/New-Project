@@ -4,12 +4,14 @@ plugins {
     alias(libs.plugins.kotlin.compose)
 }
 
+val bundleId = "com.github.hanle23.roomscanner"
+
 android {
-    namespace = "com.example.notecollab"
+    namespace = bundleId
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.notecollab"
+        applicationId =bundleId
         minSdk = 24
         targetSdk = 34
         versionCode = 1

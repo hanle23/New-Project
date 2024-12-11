@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "NoteCollab"
+rootProject.name = "Placeholder"
 include(":app")

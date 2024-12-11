@@ -1,4 +1,4 @@
-package com.example.notecollab.ui.theme
+package com.github.hanle23.roomscanner.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
